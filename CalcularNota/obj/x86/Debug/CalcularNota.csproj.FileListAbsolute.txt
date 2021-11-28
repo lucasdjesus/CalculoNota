@@ -1,0 +1,17 @@
+C:\Users\l5unip\Documents\Salatiel-Lucas CalcularNota\CalcularNota\CalcularNota\bin\Debug\CalcularNota.exe
+C:\Users\l5unip\Documents\Salatiel-Lucas CalcularNota\CalcularNota\CalcularNota\bin\Debug\CalcularNota.pdb
+C:\Users\l5unip\Documents\Salatiel-Lucas CalcularNota\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.Form1.resources
+C:\Users\l5unip\Documents\Salatiel-Lucas CalcularNota\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.Properties.Resources.resources
+C:\Users\l5unip\Documents\Salatiel-Lucas CalcularNota\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.csproj.GenerateResource.Cache
+C:\Users\l5unip\Documents\Salatiel-Lucas CalcularNota\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.exe
+C:\Users\l5unip\Documents\Salatiel-Lucas CalcularNota\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.pdb
+C:\Users\l5unip\Documents\Salatiel-Lucas CalcularNota\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.frmCalcularNota.resources
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.exe
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.pdb
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\bin\Debug\CalcularNota.exe
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\bin\Debug\CalcularNota.pdb
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.Form1.resources
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.frmCalcularNota.resources
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.Properties.Resources.resources
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.csproj.GenerateResource.Cache
+C:\Users\l5unip.SRVPAZ\Documents\CalcularNota\CalcularNota\obj\x86\Debug\CalcularNota.csprojResolveAssemblyReference.cache
